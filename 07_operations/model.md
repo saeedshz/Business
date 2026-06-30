@@ -1,0 +1,3 @@
+# Model
+
+Daily work structure.
